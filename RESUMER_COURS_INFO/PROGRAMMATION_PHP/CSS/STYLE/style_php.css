@@ -1,0 +1,44 @@
+/* mise en style de la pa prin*/
+body
+{
+    margin: 0%;
+    padding: 0%;
+}
+/*mise en style de l'entete de la pa pincipale*/
+.div_cre_pa_prin
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #ececec;
+    padding: 1.2%;
+    box-shadow: 10px 1px 50px  silver inset;
+
+}
+.cre_entete_nav_prin
+{
+    background-color: #fff;
+}
+.cre_li_prins_2_pa_cour_php, .cre_li_prin
+{
+    display: flex;
+    margin-top: 0%;
+}
+.cre_li_prin a
+{
+    text-decoration: none;
+}
+.cre_el_1_li_prin, .cre_el_2_li_prin, .cre_el_3_li_prin, .cre_el_4_li_prin
+{
+    width: 100%;
+    margin-left: 1%;
+}
+/*mise en style du corp de la pa prin*/
+.image_corp_1_pa_cour_php
+{
+    width: 40%;
+    box-shadow: 15px 20px 15px gray;
+}
+.para_cre_corp_1_pa_cour_php
+{
+    text-align: center;
+}
